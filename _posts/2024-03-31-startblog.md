@@ -23,5 +23,6 @@ comments: true
 ## 이미지 
 
 > 이미지
-![Brain]({{site.url}}/images/2021-03-01-image1.png)
-![Cell]({{site.url}}/images/2021-03-01-image2.png)
+![image](https://github.com/fbghtjd/fbghtjd.github.io/assets/96062799/67fd3e49-cbea-4821-ac3a-d4157786afcf)
+
+
